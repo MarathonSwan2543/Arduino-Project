@@ -1,7 +1,0 @@
-0:00 = Starting the simulation
-0:04 = Detecting some movement + turning on the bulb (Voltage = Max, Current = 0)
-0:16 = Turning off the bulb (Voltage = 0, Current = 0)
-0:23 = Breaking the bulb (Voltage = Max, Current = Max)
-0:26 = Turning off the LCD 
-0:38 = Playing the first part of the Auld Lang Syne song
-(Repeat)
