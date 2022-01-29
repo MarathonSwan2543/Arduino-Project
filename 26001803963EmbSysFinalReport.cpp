@@ -1,26 +1,3 @@
-/*
-Ran Thawonmas (2600180396-3)
-Final Project
-Motion Detection 
-
-Source Codes: 
-1. https://github.com/TechnicalUpdate/PIR-Motion-Detection-using-Tinkercad
-2. Emb Sys Week 6 pp 26 - 27
-
-Arduino Frequency Chart
-https://www.tutorialspoint.com/arduino/arduino_tone_library.htm
-
-Auld Lang Syne Music Notes
-https://noobnotes.net/auld-lang-syne-traditional/
-
-
-Modifications
-1. Plays the full ABC song instead of the original buzzer noise
-2. Automatically lights the room up 
-3. Can turn the light on/off anytime while the buzzer is ringing
-4. Produces a parital Auld Lang Syne sound as its all-clear sound
-
-*/
 #include <LiquidCrystal.h>
 #define NOTE_C4 262
 #define NOTE_G4 392
